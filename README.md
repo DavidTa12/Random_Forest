@@ -1,4 +1,4 @@
-# Random_Forest
+# Random Forest
 
 Machine Learning using Scikit-learn random forest models and Fashion MNIST (Zalando) dataset.
 
